@@ -12,3 +12,9 @@ This is my first GitHub repository created in ICT Lab.
 
 - Date: October 14, 2026
 
+## Skills I'm Learning
+1 GitHub and version control
+2 Programming fundamentals
+3 ICT concepts
+4 Clickup
+
